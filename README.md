@@ -1,5 +1,5 @@
 # CSS Essential Training
-
+https://www.linkedin.com/learning/css-essential-training-3?u=26886434
 Exercise files for the CSS Essential Training course on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/christina-truong?u=2125562) and [Lynda.com](https://www.lynda.com/Christina-Truong/7842227-1.html).
 
 (These files are also hosted on [Bitbucket](https://bitbucket.org/christinacodes/).)
